@@ -3,7 +3,7 @@
 ---
 - 🔭 I’m currently working on my capstone project **EchoLearn**
 
-a website that uses spaced repetition to help users retain their knowledge for the long term. I have been focusing on the frontend development of the website. Additionally, I created a simple mobile app for our platform, allowing users to quickly access and study on the go. Check out our website: [EchoLearn](https://www.echolearn.org/)
+a website that uses spaced repetition to help users retain their knowledge for the long term. I have been focusing on the frontend development of the website. Additionally, I created a simple mobile app for our project, allowing users to quickly access and study on the go.
 
 - 📫 How to reach me: Email me at [wilsonpan21@gmail.com](mailto:wilsonpan21@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/wilson-pan-961099339)
 - 🛠️ Languages and Technologies:
